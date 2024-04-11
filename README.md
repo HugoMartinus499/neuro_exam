@@ -11,8 +11,14 @@ At the moment we are talking about looking into emotional valence – if EEG dat
 
 Could also be looking into emotional priming. But the overall main interest is EMOTION.
 
+**RQ: "How does emotional valence influence the neural processing of faces and words, as reflected in the N170 component?"**
+
 **And/or what will you focus on in the analysis?**
-Could be the N170 wave -> bigger amplitudes to emotional faces over neutral 
+Could be the N170 wave 
+
+-> bigger amplitudes to emotional faces over neutral 
+
+-> The MAD (mean absolute deviation) can be used to compare conditions 
 
 P3: Decision-making. Investigate whether there are differences in P3 amplitudes or latencies between conditions (positive vs. negative faces) and how these differences reflect the allocation of attentional resources or the engagement of cognitive processes associated with emotional evaluation.
 
@@ -23,4 +29,5 @@ Looking into the different amplitudes of the conditions.
 
 ## Research Question Ideas
 1. Does emotional processing/valence affect the N170 component during visual processing?
+2. "How does emotional valence influence the neural processing of faces and words, as reflected in the N170 component?"
 
