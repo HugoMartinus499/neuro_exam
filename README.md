@@ -31,3 +31,7 @@ Looking into the different amplitudes of the conditions.
 1. Does emotional processing/valence affect the N170 component during visual processing?
 2. "How does emotional valence influence the neural processing of faces and words, as reflected in the N170 component?"
 
+## To do
+- [ ] Methods with all FaceWord trials
+- [ ] Write theory in the introduction
+- [ ] Implement Andreas suggestings from slack
