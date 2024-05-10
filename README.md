@@ -35,7 +35,7 @@ Looking into the different amplitudes of the conditions.
 - [ ] Methods with all FaceWord trials
 - [ ] Write theory in the introduction
 - [x] Faces and words theory
-- [ ] EEG Theory
+- [x] EEG Theory
 - [ ] Visual perception theory
 - [ ] N170 theory
 - [ ] Implement Andreas suggestings from slack
